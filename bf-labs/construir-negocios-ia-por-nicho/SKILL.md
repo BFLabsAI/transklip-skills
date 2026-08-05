@@ -1,7 +1,6 @@
 ---
 name: bf-labs-construir-negocios-ia-por-nicho
-Name: construir-negocios-ia-por-nicho
-Description: Use esta skill sempre que alguém quiser criar, lançar ou transformar um negócio usando inteligência artificial como infraestrutura central, especialmente para servir nichos de mercado específicos (clínicas, indústrias, seguradoras, etc.). Também deve ser acionada quando o usuário quiser sair de um modelo de prestação de serviços comoditizado (agência de marketing, gestão de tráfego, automação avulsa) para um modelo de parceiro estratégico que vende transformação e resultado com IA.
+description: Use esta skill sempre que alguém quiser criar, lançar ou transformar um negócio usando inteligência artificial como infraestrutura central, especialmente para servir nichos de mercado específicos (clínicas, indústrias, seguradoras, etc.). Também deve ser acionada quando o usuário quiser sair de um modelo de prestação de serviços comoditizado (agência de marketing, gestão de tráfego, automação avulsa) para um modelo de parceiro estratégico que vende transformação e resultado com IA.
 ---
 
 ## Construir Negócios de IA por Nicho de Mercado
