@@ -1,6 +1,7 @@
 ---
 name: bf-labs-construir-negocios-ia-por-nicho
-description: Use esta skill sempre que alguém quiser criar, lançar ou transformar um negócio usando inteligência artificial como infraestrutura central, especialmente para servir nichos de mercado específicos (clínicas, indústrias, seguradoras, etc.). Também deve ser acionada quando o usuário quiser sair de um modelo de prestação de serviços comoditizado (agência de marketing, gestão de tráfego, automação avulsa) para um modelo de parceiro estratégico que vende transformação e resultado com IA.
+Name: construir-negocios-ia-por-nicho
+Description: Use esta skill sempre que alguém quiser criar, lançar ou transformar um negócio usando inteligência artificial como infraestrutura central, especialmente para servir nichos de mercado específicos (clínicas, indústrias, seguradoras, etc.). Também deve ser acionada quando o usuário quiser sair de um modelo de prestação de serviços comoditizado (agência de marketing, gestão de tráfego, automação avulsa) para um modelo de parceiro estratégico que vende transformação e resultado com IA.
 ---
 
 ## Construir Negócios de IA por Nicho de Mercado
@@ -15,7 +16,7 @@ A IA não deve ser tratada como mais um software que a empresa adiciona. Ela dev
 
 - **Não faça:** tratar IA como ferramenta para escrever mais rápido, gerar imagens, criar chatbots isolados ou automatizar tarefas avulsas.
 - **Faça:** redesenhar processos, decisões e entregas da empresa para que a IA esteja na base de tudo.
-- **Regra de decisão:** se a empresa continua competindo com os mesmos processos de antes, apenas com um software novo, nada mudou. A transformação precisa ser estrutural.
+- **Regra de decisão:** se a empresa continua competindo com os mesmos processos de antes, apenas com um software novo, nada mudou. A transformação deveestrutural.
 
 ---
 
@@ -188,3 +189,11 @@ Se o objetivo for escalar a criação de negócios de IA em múltiplos nichos:
 6. ✅ Estruture contratos com setup + recorrência + participação no resultado.
 7. ✅ Posicione-se como parceiro estratégico, não como prestador de serviço.
 8. ✅ Repita o modelo em múltiplos negócios do mesmo nicho para gerar escala e recorrência.
+
+---
+
+### Erros Comuns
+
+- **Vender IA como ferramenta isolada** em vez de redesenhar o processo inteiro do cliente, resultando em pouca entrega de valor.
+- **Precificar por horas ou por tarefa** em vez de precificar pelo resultado financeiro gerado para o cliente.
+- **Pular a validação interna** e tentar vender o serviço sem provar que a infraestrutura funciona no próprio negócio.
