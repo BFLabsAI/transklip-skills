@@ -1,6 +1,6 @@
 ---
 name: bf-labs-lancar-negocios-de-ia
-description: Use esta skill sempre que o usuário quiser criar, lançar ou escalar um negócio especializado em inteligência artificial para um nicho de mercado específico. Essa skill ensina a construir uma infraestrutura de IA replicável, precificar por valor gerado, sair do modelo de prestação de serviços comoditizados e se posicionar como parceiro estratégico de crescimento. Ative sempre que o pedido envolver: empreender com IA, criar agências ou negócios focados em IA, transformar empresas tradicionais com IA, montar sistemas de IA para nichos, precificar soluções de IA, ou trocar o modelo de venda de horas por venda de resultado.
+description: "Use esta skill sempre que o usuário quiser criar, lançar ou escalar um negócio especializado em inteligência artificial para um nicho de mercado específico. Essa skill ensina a construir uma infraestrutura de IA replicável, precificar por valor gerado, sair do modelo de prestação de serviços comoditizados e se posicionar como parceiro estratégico de crescimento. Ative sempre que o pedido envolver: empreender com IA, criar agências ou negócios focados em IA, transformar empresas tradicionais com IA, montar sistemas de IA para nichos, precificar soluções de IA, ou trocar o modelo de venda de horas por venda de resultado."
 language: pt
 ---
 
